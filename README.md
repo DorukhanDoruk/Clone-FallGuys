@@ -1,6 +1,6 @@
 # Clone-FallGuys
-<h5>Unity Version 2019.4.35f1</h5>
-<h5>A* Pathfinding 4.2.17</h5>
+<h5>Unity Version: 2019.4.35f1<br>
+A* Pathfinding: 4.2.17</h5>
 
 
 <details>
