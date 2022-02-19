@@ -4253,6 +4253,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: RotatingPlatform Orange
       objectReference: {fileID: 0}
+    - target: {fileID: 1153762396323654205, guid: 2ef0c4a23d187dd44ba4d773950a3067,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1966151527959851143, guid: 2ef0c4a23d187dd44ba4d773950a3067,
         type: 3}
       propertyPath: m_RootOrder
